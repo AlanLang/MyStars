@@ -50,3 +50,11 @@
 [fucking-algorithm](https://github.com/labuladong/fucking-algorithm) | 刷算法全靠套路，认准 labuladong 就够了！|
 [type-challenges](https://github.com/type-challenges/type-challenges) | ts 类型跳操学习|
 [open-source-rover](https://github.com/nasa-jpl/open-source-rover) | 自建的6轮探测车|
+
+## 实用工具
+名称  | 功能简述 | 平台 |
+----- | ----- | ----- |
+[Dropover](https://dropoverapp.com/) | 收集或移动任何可拖动的内容，而不必打开并排的窗口 | MacOS |
+[Thor](https://apps.apple.com/cn/app/thor/id1120999687?mt=12) | 为app设置打开的快捷键 | MacOS |
+[LaunchBar](https://obdev.at/products/launchbar/index.html) | 快速启动工具 | MacOS |
+[IINA](https://iina.io/) | 视频播放器 | MacOS |
